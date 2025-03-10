@@ -1,10 +1,4 @@
 
-Like
-
-Comment
-
-Share
-
 ![A Data-Driven Analysis of Restaurant Order Trends](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/204047134/projects/a9f26553-d668-4b82-80a5-1fef1706c18e.png)
 
 ## About this project
@@ -77,9 +71,8 @@ During the data preparation phase, the steps were followed as below:
 **Images**
 
 
-|  |  |
-|--|--|
-|  |  |
+
+
 ![](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/204047134/projects/21847/816a4a79-db53-4713-b948-7bbc4dc3839d.png)
 ![](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/204047134/projects/21847/a1c8132d-516c-45ae-84d2-abeaa8243857.png)
 

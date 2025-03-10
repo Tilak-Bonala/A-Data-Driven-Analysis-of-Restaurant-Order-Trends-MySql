@@ -75,6 +75,11 @@ During the data preparation phase, the steps were followed as below:
 • Mexican Chicken Tacos least purchased item.
 
 **Images**
+
+
+|  |  |
+|--|--|
+|  |  |
 ![](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/204047134/projects/21847/816a4a79-db53-4713-b948-7bbc4dc3839d.png)
 ![](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/204047134/projects/21847/a1c8132d-516c-45ae-84d2-abeaa8243857.png)
 
